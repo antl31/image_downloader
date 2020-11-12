@@ -1,0 +1,9 @@
+psycopg2-binary
+django
+django-cors-headers
+django-filter
+djangorestframework
+requests
+celery
+redis
+pillow
